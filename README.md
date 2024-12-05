@@ -3,7 +3,7 @@
 Project Overview:
 This project presents a comprehensive Power BI dashboard for analyzing Super Market Data Analysis, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs and visualizations.
 
- Key Performance Indicators (KPIs)
+##Key Performance Indicators (KPIs)
 The dashboard focuses on the following primary KPIs:
 
 1.Sum of Sales
@@ -12,7 +12,7 @@ The dashboard focuses on the following primary KPIs:
 4.Sales by Ship Mode
 5.Sales by Region
 
-Key Highlights
+##Key Highlights
 
 1. Data Analysis: Collected and analyzed sales data from Excel to identify trends, patterns, and correlations.
 2. Data Visualization: Created interactive and dynamic dashboards using Power BI to visualize sales performance, profit margins, and customer behavior.
